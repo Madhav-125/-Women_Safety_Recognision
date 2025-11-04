@@ -1,0 +1,8 @@
+flask==2.0.1                  # Lightweight web server
+mediapipe==0.8.9.1            # Hand gesture detection (optimized version)
+opencv-python-headless==4.5.4 # Lighter than opencv-python (no GUI)
+numpy==1.21.4                 # For image processing
+pyrebase4==4.8.0              # Firebase integration
+requests-toolbelt==0.9.1      # Compatible with pyrebase4
+Pillow==9.0.1                 # For image handling
+gunicorn==20.1.0              # Production WSGI server (for Render)
